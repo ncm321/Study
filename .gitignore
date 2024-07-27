@@ -1,0 +1,6 @@
+#ignore all lib
+./test_lu/lib/
+./test_lu/bin/
+./test_lu/install/
+
+
